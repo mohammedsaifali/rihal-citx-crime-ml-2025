@@ -50,7 +50,7 @@ CityX_Crime/
 1. **Clone the Repository**
 
    ```bash
-   git clone (https://github.com/mohammedsaifali/rihal-citx-crime-ml-2025.git)
+   git clone https://github.com/mohammedsaifali/rihal-citx-crime-ml-2025.git
    cd rihal-citx-crime-ml-2025
    ```
 
