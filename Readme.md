@@ -30,7 +30,7 @@ CityX, once a peaceful metropolis, now faces a surge in criminal activity. This 
 CityX_Crime/
 ├── Competition_Dataset.csv       # Original raw crime dataset
 ├── processed_crime_data.csv       # Cleaned and feature-engineered dataset with severity assignment
-├── eda_and_modeling (1).py        # Python script for EDA, model training, and artifact persistence
+├── eda_and_modeling.ipynb        # Python script for EDA, model training, and artifact persistence
 ├── level3_app.py                  # Streamlit app implementing Levels 1-3 (data exploration, visualization, and geo-spatial mapping)
 ├── app.py                         # Unified Streamlit app containing the complete solution (Levels 3 & 4)
 ├── best_model.pkl                 # Pickled best-performing ML model (e.g., Random Forest)
