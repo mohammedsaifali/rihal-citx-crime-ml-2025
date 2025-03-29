@@ -144,7 +144,7 @@ def parse_pdf_report(pdf_bytes):
 
 @st.cache_data
 def load_processed_data():
-    df = pd.read_csv("data/processed_crime_data.csv")
+    df = pd.read_csv("processed_crime_data.csv")
     return df
 
 def main():
